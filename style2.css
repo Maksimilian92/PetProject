@@ -1,0 +1,111 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+.navigation {
+    width: 1200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: #fff;
+}
+
+.logo {
+    width: 40px;
+    height: 35px;
+    padding: 32px;
+}
+
+.logo-img {
+    width: 24px;
+    height: 35px;
+}
+
+.title {
+    width: 1200px;
+    height: 450px;
+    border: 1px solid greenyellow;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.first-name {
+    font-size: 72px;
+    font-family: "inter", sans-serif;
+}
+
+.sub-name {
+    font-size: 32px;
+    font-family: "inter", sans-serif;
+    color: #757575;
+}
+
+.content {
+    width: 1200px;
+    height: 1000px;
+    border: 1px solid blue;
+    background-color: #fff;
+}
+
+.foot {
+    width: 1200px;
+    height: 470px;
+    border: 1px solid #D9D9D9;
+    background-color: #fff;
+    display: flex;
+    gap: 16px;
+}
+
+.block-ikon {
+    width: 260px;
+    height: 85px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.logo2 {
+    width: 24px;
+    height: 35px;
+}
+
+.ikonX {
+    margin-top: 24px;
+    margin-right: 16px;
+}
+
+.ikonInst {
+    margin-right: 16px;
+}
+
+.ikonYoutb {
+    margin-right: 16px;
+}
+
+
+
+.columns {
+    width: 260px;
+    height: 275px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    margin-top: 32px;
+}
+
+.columns-name {
+    margin-top: 0;
+    margin-bottom: 28px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+}
+
+.item {
+    margin-bottom: 12px;
+}
