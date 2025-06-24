@@ -134,13 +134,34 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     gap: 48px;
-    
+    font-family: "Inter", sans-serif;
+
 }
+
 .item-card {
     width: 325px;
     height: 355px;
     border: 1px solid #D9D9D9;
     border-radius: 8px;
+}
+
+.card-product {
+    margin: 24px;
+}
+
+.name-card {
+    font-size: 24px;
+    margin: 0 24px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    
+}
+
+.content-card {
+    font-size: 16px;
+    color: #757575;
+    margin: 0 24px;
+
 }
 
 
