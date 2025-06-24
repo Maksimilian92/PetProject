@@ -1,0 +1,18 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+} */
+
+.navigation-panel {
+    width: 1200px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.block-title {
+    width: 1200px;
+    height: 585px;
+    border: 1px solid black;
+}
