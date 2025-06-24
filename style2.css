@@ -141,12 +141,6 @@ body {
     height: 355px;
     border: 1px solid #D9D9D9;
     border-radius: 8px;
-
-    /* display: flex;
-    align-content: center;
-    justify-content: center;
-    flex-wrap: wrap; */
-    
 }
 
 
@@ -160,10 +154,9 @@ body {
 }
 
 .block-ikon {
-    /* width: 260px; */
-    /* height: 85px; */
     margin-top: 32px;
     margin-left: 32px;
+    margin-right: 134px;
 }
 
 .logo2 {
